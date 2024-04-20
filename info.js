@@ -51,11 +51,18 @@ module.exports = {
     HANDLERS: process.env.HANDLERS || '.',
     INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
-    SUDO: process.env.SUDO || '8801975492880',
+    SUDO: process.env.SUDO || '919614477116',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
     MODE: process.env.MODE || 'public',
-    STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
+    STICKER_DATA: process.env.STICKER_DATA || '️আমাকে ভালো লাগে?🙄
+লাগে না তাইতো?
+লাগবে কিভাবে তোমার মনে তো হিংসা ভরা😒😆
+ 📌মারবো এখানে লাশ পরবে শ্মশানে🥱
+
+✮͢⚡⃟≛⃝🇸𝖚𝖇𝖆𝖗𝖚≛⃝🍁⑉៚
+               🚫
+^⁠_₊₉₁ ₉₆₁₄₄₇₇₁₁₆_⁠^',
     HAPP: process.env.HAPP || '', // IF NOT HEROKU THEN KEEP IT BLANK
     HKEY: process.env.HKEY || '', // IF NOT HEROKU THEN KEEP IT BLANK
     DATABASE_URL: DATABASE_URL,
