@@ -49,7 +49,7 @@ if (fs.existsSync('config.env')) {
 module.exports = {
     SESSION_ID: process.env.SESSION_ID || '',
     HANDLERS: process.env.HANDLERS || '.',
-    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
+    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;✮͢⚡⃟≛⃝🇸𝖚𝖇𝖆𝖗𝖚≛⃝🍁⑉៚;https://imgur.com/D60nScQ.jpg',
     URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
     SUDO: process.env.SUDO || '919614477116',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
